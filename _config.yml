@@ -7,9 +7,14 @@ twitter_username:
 github_username:  ynbd
 enforce_ssl: 'yanabechard.com'
 
+# Sass settings
+sass:
+  sass_dir: assets/
+  style: :nested
+
 # Build settings
 markdown: kramdown
-theme: minima
+# theme: minima
 gems:
   - jekyll-feed
 exclude:
