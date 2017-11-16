@@ -1,8 +1,8 @@
 ---
 layout: post
-title: Project
-description: a project with a background image
-img: /img/2.jpg
+title: Colgan Wedding Logo
+description: 
+img: /img/logo/Danielleweddinglogo.png
 published: true
 ---
 
