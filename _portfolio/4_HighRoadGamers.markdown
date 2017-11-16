@@ -2,13 +2,19 @@
 layout: post
 title: The High Road Gamers
 description: Branding
-img: /img/thrgmain.jpg
+img: /img/logo/thrgmain.jpg
 published: true 
 ---
 
 
 This branding was designed for a new coming gaming YouTube channel. Customer requested the logo to be easy to recognize and adjustable for 
 merchandise.
+
+<div class="img_row">
+  <img class="col two" src="/img/logo/thrgmain.jpg"/>
+</div>
+
+Exploring different colour combinations.
 
 <div class="img_row">
   <img class="col two" src="/img/logo/thrgblue.png"/>
