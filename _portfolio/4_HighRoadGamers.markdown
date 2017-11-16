@@ -7,8 +7,8 @@ published: true
 ---
 
 
-Logo Branding for a new youtube channel.
-
+Customer needed to create a branding for his new youtube gaming channel. The name of his channel is The High Road Gamers. He wanted to 
+have a logo that would look nice on merchandize and would be easily recognized.
 
 
 
