@@ -2,7 +2,7 @@
 layout: post
 title: Photography
 description: photo collection
-img: /img/photography/DSC_0084.jpg
+img: /img/photography/DSC_0084 copy.jpg
 published: true
 ---
 <div class="img_row">
