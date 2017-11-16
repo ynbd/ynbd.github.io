@@ -8,8 +8,8 @@ permalink: /about/
 
 <br/>
 Hi! My name is Yana and I like to make things. I have passion for design, typography and handmade items.
-When I’m not designing, you can find me reading, practicing calligraphy, making friendship bracelets, binging on Netflix and cuddling with my cats!
-
+When I’m not designing, you can find me reading, practicing calligraphy, making friendship bracelets, binging on Netflix and cuddling with 
+my cats!
 
 
 <br/>
