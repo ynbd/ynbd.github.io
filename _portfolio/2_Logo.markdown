@@ -13,7 +13,9 @@ This project was very dear to me since I know Bride and Groom very close. They m
   <img class="col one" src="/img/logo/Danielleweddinglogowithdate.png"/>
 </div>
 
+
 Images provided by Riopix Photography.
+
 
 <div class="img_row">
   <img class="col one" src="/img/logo/0590_FLZ5903 web-L.png"/>
