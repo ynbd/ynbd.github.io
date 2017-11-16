@@ -8,8 +8,17 @@ published: true
 
 
 <div class="img_row">
-  <img class="col two" src="/img/photography/DSC_0084 copy.jpg"/>
-  <img class="col one" src="/img/photography/DSC_0084.jpg/"/>
-  <img class="col one" src="/img/photography/DSC_0118.jpg/"/>
-  <img class="col one" src="/img/photography/DSC_0209.jpg/"/>
+  <img class="col three" src="/img/photography/DSC_0084 copy.jpg"/>
+</div>
+
+<div class="img_row">
+  <img class="col three" src="/img/photography/DSC_0084.jpg"/>
+</div>
+
+<div class="img_row">
+  <img class="col three" src="/img/photography/DSC_0118.jpg"/>
+</div>
+
+<div class="img_row">
+  <img class="col three" src="/img/photography/DSC_0209.jpg"/>
 </div>

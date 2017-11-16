@@ -3,6 +3,7 @@ layout: post
 title: Place Holder
 description: place holder
 img: /img/typography/1.png
+published: false
 ---
 
 <div class="img_row">

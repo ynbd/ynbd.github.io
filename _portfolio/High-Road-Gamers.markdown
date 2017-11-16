@@ -11,13 +11,13 @@ This branding was designed for a new coming gaming YouTube channel. Customer req
 merchandise.
 
 <div class="img_row">
-  <img class="col two" src="/img/logo/thrgmain.jpg"/>
+  <img class="col one" src="/img/logo/thrgmain.jpg"/>
 </div>
 
 Exploring different colour combinations.
 
 <div class="img_row">
-  <img class="col two" src="/img/logo/thrgblue.png"/>
+  <img class="col one" src="/img/logo/thrgblue.png"/>
   <img class="col one" src="/img/logo/thrgred.png"/>
 </div>
 
