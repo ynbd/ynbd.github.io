@@ -10,6 +10,7 @@ This project was very dear to me since I know Bride and Groom very close. They m
 
 <div class="img_row">
   <img class="col one" src="/img/logo/Danielleweddinglogo.png"/>
+  <img class="col one" src="/img/logo/Danielleweddinglogowithdate.png"/>
 </div>
 
 Images provided by Riopix Photography.
