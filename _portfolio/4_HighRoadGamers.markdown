@@ -15,9 +15,12 @@ merchandise.
   <img class="col one" src="/img/logo/thrgred.png"/>
 </div>
 
+
 Examples of logo being used on different merchandise.
 
+
+
 <div class="img_row">
-  <img class="col two" src="/img/logo/hat.jpg"/>
+  <img class="col one" src="/img/logo/hat.jpg"/>
   <img class="col one" src="/img/logo/couplewearingthrd.jpg"/>
 </div>
