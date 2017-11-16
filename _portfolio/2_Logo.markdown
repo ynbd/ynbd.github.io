@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Colgan Wedding Logo
+title: Wedding Logo
 description: 
 img: /img/logo/Danielleweddinglogo.png
 published: true
