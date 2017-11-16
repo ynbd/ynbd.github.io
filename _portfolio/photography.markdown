@@ -3,8 +3,6 @@ layout: post
 title: Photography
 description: photo collection
 img: /img/photography/DSC_0118.png	
-img: /img/photography/DSC_0084.png
-img: /img/photography/DSC_0209.png
 img: /img/photography/DSC_0214.png
 img: /img/photography/DSC_0259.png
 img: /img/photography/DSC_0322.png
@@ -16,3 +14,9 @@ img: /img/photography/IMGB-1235.png
 img: /img/photography/IMGB-1512.png
 published: true
 ---
+<div class="img_row">
+	<img class="col" src="{{ site.baseurl }}/img/photography/DSC_0084.png
+" alt="" title="example image"/>
+	<img class="col" src="{{ site.baseurl }}/img/photography/DSC_0209.png
+" alt="" title="example image"/>
+</div>
