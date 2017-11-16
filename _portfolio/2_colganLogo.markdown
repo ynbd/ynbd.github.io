@@ -1,7 +1,7 @@
 ---
 layout: post
-title: Wedding Logo
-description: 
+title: Canada-Ireland 
+description: Logo Design
 img: /img/logo/Danielleweddinglogo.png
 published: true
 ---
