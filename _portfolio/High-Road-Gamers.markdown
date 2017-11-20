@@ -5,28 +5,27 @@ description: Branding
 img: /img/logo/thrgmain.jpg
 published: true 
 ---
-
-
 This branding was designed for a new coming gaming YouTube channel. Customer requested the logo to be easy to recognize and adjustable for 
 merchandise.
-
-<div class="img_row">
-  <img class="col one" src="/img/logo/thrgmain.jpg"/>
+<div class="row">
+  <div class="col-sm">
+     <img src="{{ site.baseurl }}/assets/img/logo/thrgmain.jpg" style="width: 20rem"/>
+  </div>
+  <div class="col-sm">
+     <img src="{{ site.baseurl }}/assets/img/logo/thrgblue.png" style="width: 20rem"/>
+  </div>
+  <div class="col-sm">
+     <img src="{{ site.baseurl }}/assets/img/logo/thrgred.png" style="width: 20rem"/>
+  </div>
 </div>
-
-Exploring different colour combinations.
-
-<div class="img_row">
-  <img class="col one" src="/img/logo/thrgblue.png"/>
-  <img class="col one" src="/img/logo/thrgred.png"/>
-</div>
-
-
 Examples of logo being used on different merchandise.
 
 
-
-<div class="img_row">
-  <img class="col one" src="/img/logo/hat.jpg"/>
-  <img class="col one" src="/img/logo/couplewearingthrd.jpg"/>
+<div class="row">
+  <div class="col-sm-5">
+     <img src="{{ site.baseurl }}/assets/img/logo/hat.jpg" style="width: 20rem"/>
+  </div>
+  <div class="col-sm-5">
+     <img src="{{ site.baseurl }}/assets/img/logo/couplewearingthrd.jpg" style="width: 20rem"/>
+  </div>
 </div>

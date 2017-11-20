@@ -6,19 +6,17 @@ img: /img/photography/DSC_0084 copy.jpg
 published: true
 ---
 
-
-<div class="img_row">
-  <img class="col three" src="/img/photography/DSC_0084 copy.jpg"/>
-</div>
-
-<div class="img_row">
-  <img class="col three" src="/img/photography/DSC_0084.jpg"/>
-</div>
-
-<div class="img_row">
-  <img class="col three" src="/img/photography/DSC_0118.jpg"/>
-</div>
-
-<div class="img_row">
-  <img class="col three" src="/img/photography/DSC_0209.jpg"/>
+<div class="row">
+  <div class="col-sm">
+     <img src="{{ site.baseurl }}/assets/img/photography/DSC_0084 copy.jpg" style="width: 20rem"/>
+  </div>
+  <div class="col-sm">
+     <img src="{{ site.baseurl }}/assets/img/photography/DSC_0084.jpg" style="width: 20rem;"/> 
+  </div>
+  <div class="col-sm">
+     <img src="{{ site.baseurl }}/assets/img/photography/DSC_0118.jpg" style="width: 20rem;"/> 
+  </div>
+  <div class="col-sm">
+     <img src="{{ site.baseurl }}/assets/img/photography/DSC_0209.jpg" style="width: 20rem;"/>
+  </div>
 </div>
