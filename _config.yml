@@ -45,6 +45,11 @@ collections:
     output: true
     permalink: /poetry/:path/
 
+#Sass settings
+sass:
+  sass_dir: assets/css
+  style: :nested    
+
 # Exclude from processing.
 # The following items will not be processed, by default. Create a custom list
 # to override the default setting.
